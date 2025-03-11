@@ -34,7 +34,7 @@ export default async function RootLayout({ children }) {
           banner={banner}
           navbar={navbar}
           pageMap={await getPageMap()}
-          docsRepositoryBase="https://github.com/shuding/nextra/tree/main/docs"
+          docsRepositoryBase="https://github.com/LeoMavri/TSC-Documentation/tree/main"
           footer={footer}
           // ... Your additional layout options
         >
